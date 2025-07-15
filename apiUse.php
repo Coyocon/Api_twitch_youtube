@@ -1,7 +1,7 @@
 <?php
-include_once 'assest/APIs/youtube/api_Youtube.php';
-include_once 'assest/APIs/twitch/api_Twitch.php';
-include_once 'assest/APIs/datos.php';
+include_once 'assest/APIs/youtube/api_Youtube.php';//Cambia la ubicacion si es necesario
+include_once 'assest/APIs/twitch/api_Twitch.php';//Cambia la ubicacion si es necesario
+include_once 'assest/APIs/datos.php';//Cambia la ubicacion si es necesario
 
 
 
